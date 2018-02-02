@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^hirelorry\.in$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.hirelorry\.in$
+RewriteRule ^email$ "http\:\/\/hirelorry\.in\.md\-17\.webhostbox\.net\:2095\/cpsess1456671226\/" [R=301,L]
+

@@ -1,0 +1,1 @@
+<?php $captcha = "LAG7K"; ?>
